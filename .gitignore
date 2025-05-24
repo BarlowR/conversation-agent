@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#API key
+anthropic-api-key.txt
+
+models/

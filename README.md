@@ -7,4 +7,4 @@ Simple demo combining:
 * Simple filehandling
 
 
-<img src="README_GIF.gif" width="200" />
+<img src="README_GIF.gif" width="500" />
